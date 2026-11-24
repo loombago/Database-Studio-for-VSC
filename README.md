@@ -8,9 +8,9 @@
 **Platforms:** Windows, Linux, macOS (`LDS-TR-007`, `LDS-TR-008`, `LDS-TR-009`)  
 **License:** [MIT](LICENSE)
 
-Loombago Database Studio (LDS) is a unified, modular relational database studio built as a Visual Studio Code extension in TypeScript using the VS Code WebView API (`LDS-TR-001`, `LDS-TR-002`, `LDS-TR-003`, `LDS-TR-006`). It empowers database administrators, software engineers, data analysts, and solution architects (`LDS-BR-003`) to manage local databases and enterprise environments from a single consistent UI inside VS Code (`LDS-BR-001`, `LDS-BR-002`, `LDS-BR-004`, `LDS-BR-005`, `LDS-BR-006`).
+Loombago Database Studio (LDS) is a unified, modular relational database studio built as a Visual Studio Code extension in TypeScript using the VS Code WebView API. It empowers database administrators, software engineers, data analysts, and solution architects to manage local databases and enterprise environments from a single consistent UI inside VS Code.
 
-> **MVP Scope Notice:** Per the specification (`Loombago-Database-Studio-for-VSC_v1.docx`), version `1.0.1` implements all **191 MVP requirements** (without the `***` prefix). The 19 post-MVP requirements (`***LDS-INT-001..004`, `***LDS-ENT-001..015`) are intentionally excluded from MVP v1.0 and tracked in the [Requirements Traceability Matrix](docs/REQUIREMENTS_TRACEABILITY_MATRIX.md).
+> **MVP Scope Notice:** Per the specification (`Loombago-Database-Studio-for-VSC_v1.docx`), version `1.0.1` implements all **191 MVP requirements** (without the `***` prefix). The 19 post-MVP requirements are intentionally excluded from MVP v1.0 and tracked in the [Requirements Traceability Matrix](docs/REQUIREMENTS_TRACEABILITY_MATRIX.md).
 
 ---
 
